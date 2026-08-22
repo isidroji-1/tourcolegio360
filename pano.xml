@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.6" apprev="20966" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_191444_00_041.ins" nodeid="node1" comment="" datetime="21/08/2026 19:14" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" id="Point01" tilt="-12.66" pan="-355.64" title="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_191712_00_042.ins" nodeid="node2" comment="" datetime="21/08/2026 19:17" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" levelingpitch="0" height="960" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="960">
+      <level height="960" width="960" preload="0" predecode="0"/>
+      <level height="480" width="480" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-60.4952" pan="-180"/>
+      <max fov="140" fovfisheye="360" tilt="60.4952" fovstereographic="330" pan="180"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_191806_00_043.ins" nodeid="node3" comment="" datetime="21/08/2026 19:18" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_191929_00_044.ins" nodeid="node4" comment="" datetime="21/08/2026 19:19" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192028_00_045.ins" nodeid="node5" comment="" datetime="21/08/2026 19:20" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192119_00_046.ins" nodeid="node6" comment="" datetime="21/08/2026 19:21" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192342_00_047.ins" nodeid="node7" comment="" datetime="21/08/2026 19:23" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192431_00_048.ins" nodeid="node8" comment="" datetime="21/08/2026 19:24" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192842_00_051.ins" nodeid="node9" comment="" datetime="21/08/2026 19:28" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_193150_00_052.ins" nodeid="node10" comment="" datetime="21/08/2026 19:31" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_193217_00_053.ins" nodeid="node11" comment="" datetime="21/08/2026 19:32" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" levelingpitch="0" height="960" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="960">
+      <level height="960" width="960" preload="0" predecode="0"/>
+      <level height="480" width="480" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-60.4952" pan="-180"/>
+      <max fov="140" fovfisheye="360" tilt="60.4952" fovstereographic="330" pan="180"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_193352_00_054.ins" nodeid="node12" comment="" datetime="21/08/2026 19:33" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_193512_00_055.ins" nodeid="node13" comment="" datetime="21/08/2026 19:35" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_193849_00_056.ins" nodeid="node14" comment="" datetime="21/08/2026 19:38" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_194057_00_057.ins" nodeid="node15" comment="" datetime="21/08/2026 19:40" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192629_00_049.ins" nodeid="node16" comment="" datetime="21/08/2026 19:26" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" levelingpitch="0" height="1472" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" width="1472">
+      <level height="1472" width="1472" preload="0" predecode="0"/>
+      <level height="736" width="736" preload="0" predecode="0"/>
+      <level height="368" width="368" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="100" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata source="" latitude="" description="" author="" copyright="" info="" customnodeid="" heading="0" title="DCIM\Camera01\IMG_20260821_192705_00_050.ins" nodeid="node17" comment="" datetime="21/08/2026 19:27" longitude="" tags="Colegio-2Panoramicajpg"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomfov="40" blendtime="1" zoomoutpause="1" type="crossdissolve"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" zoomcentercursor="1" rubberband="0" contextvr="1" invertwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" sensitivity="8" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" author="" copyright="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
